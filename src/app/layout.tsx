@@ -56,6 +56,7 @@ export default function RootLayout({
     <html lang="id" suppressHydrationWarning>
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="facebook-domain-verification" content="88w0jyhvxq3ryykhuavv4edcte4zmk" />
         <style>{`
           html {
             scroll-behavior: smooth;
